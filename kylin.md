@@ -3,3 +3,8 @@
 http://ms.csdn.net/geek/70560</br>
 http://lxw1234.com/archives/2016/04/643.htm</br>
 
+
+install kylin hive hbase hadoop </br> 
+# References
+http://xyduan.com/install-kylin-hive-hbase-hadoop/
+
