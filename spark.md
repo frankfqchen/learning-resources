@@ -1,2 +1,2 @@
 # run spark jar
-Spark-submit –jars $LIBJARS –class test.MyApp –master local myApp.jar
+spark-submit --class com.chinapex.ctrip.churn.textReader --master local Collect-1.0-SNAPSHOT.jar
