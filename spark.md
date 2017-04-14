@@ -10,3 +10,7 @@ spark-submit --class com.chinapex.ctrip.churn.textReader --master local Collect-
 # spark sql
 * [Upacking a list to select multiple columns from a spark data frame](http://stackoverflow.com/questions/34938770/upacking-a-list-to-select-multiple-columns-from-a-spark-data-frame)
 
+# spark logistic regression
+* [Spark LogisticRegression 逻辑回归之建模](http://www.cnblogs.com/wwxbi/p/6224670.html)
+* [在Apache Spark上跑Logistic Regression算法](http://www.csdn.net/article/2015-07-24/2825285)
+
