@@ -4,6 +4,8 @@ spark-submit --class com.chinapex.ctrip.churn.textReader --master local Collect-
 # spark hbase
 *[spark将数据写入hbase以及从hbase读取数据](http://blog.csdn.net/u013468917/article/details/52822074)
 *[using spark to read specific columns data from hbase](http://stackoverflow.com/questions/27122409/using-spark-to-read-specific-columns-data-from-hbase)
+*[How to use HBase ColumnRangeFilter by Spark](https://stackoverflow.com/questions/42604507/how-to-use-hbase-columnrangefilter-by-spark)
+*[hbase 异常 Server is not running yet](http://m.blog.csdn.net/article/details?id=53160577)
 
 # spark sql
 *[Upacking a list to select multiple columns from a spark data frame](http://stackoverflow.com/questions/34938770/upacking-a-list-to-select-multiple-columns-from-a-spark-data-frame)
