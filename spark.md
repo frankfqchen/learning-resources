@@ -14,3 +14,6 @@ spark-submit --class com.chinapex.ctrip.churn.textReader --master local Collect-
 * [Spark LogisticRegression 逻辑回归之建模](http://www.cnblogs.com/wwxbi/p/6224670.html)
 * [在Apache Spark上跑Logistic Regression算法](http://www.csdn.net/article/2015-07-24/2825285)
 
+# spark dataframe
+* [Convert Spark's DataFrame to RDD[Vector]](http://stackoverflow.com/questions/41712556/convert-sparks-dataframe-to-rddvector)
+
