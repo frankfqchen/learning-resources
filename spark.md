@@ -14,6 +14,9 @@ spark-submit --class com.chinapex.ctrip.churn.textReader --master local Collect-
 * [Spark LogisticRegression 逻辑回归之建模](http://www.cnblogs.com/wwxbi/p/6224670.html)
 * [在Apache Spark上跑Logistic Regression算法](http://www.csdn.net/article/2015-07-24/2825285)
 
+# spark kmeans
+* [Spark KMeans clustering: get the number of sample assigned to a cluster](http://stackoverflow.com/questions/33495287/spark-kmeans-clustering-get-the-number-of-sample-assigned-to-a-cluster)
+
 # spark dataframe
 * [Convert Spark's DataFrame to RDD[Vector]](http://stackoverflow.com/questions/41712556/convert-sparks-dataframe-to-rddvector)
 
