@@ -20,3 +20,8 @@ spark-submit --class com.chinapex.ctrip.churn.textReader --master local Collect-
 # spark dataframe
 * [Convert Spark's DataFrame to RDD[Vector]](http://stackoverflow.com/questions/41712556/convert-sparks-dataframe-to-rddvector)
 
+# spark ml mllib vector densevector
+* [ClassCastException: org.apache.spark.ml.linalg.DenseVector cannot be cast to org.apache.spark.mllib.linalg.Vector](http://stackoverflow.com/questions/40109807/classcastexception-org-apache-spark-ml-linalg-densevector-cannot-be-cast-to-org)
+
+# spark labelpoint dataframe transform
+* [Create labeledPoints from Spark DataFrame in Python](http://stackoverflow.com/questions/32556178/create-labeledpoints-from-spark-dataframe-in-python)
