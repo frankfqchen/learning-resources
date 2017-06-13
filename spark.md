@@ -25,3 +25,7 @@ spark-submit --class com.chinapex.ctrip.churn.textReader --master local Collect-
 
 # spark labelpoint dataframe transform
 * [Create labeledPoints from Spark DataFrame in Python](http://stackoverflow.com/questions/32556178/create-labeledpoints-from-spark-dataframe-in-python)
+
+
+# spark ml 
+* [How to cast variable of type ML sparse vector type to MLlib sparse vector type ?](https://community.hortonworks.com/questions/66106/how-to-caste-variable-of-type-ml-sparse-vector-typ.html?sort=oldest)
