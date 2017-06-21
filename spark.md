@@ -19,6 +19,7 @@ spark-submit --class com.chinapex.ctrip.churn.textReader --master local Collect-
 
 # spark dataframe
 * [Convert Spark's DataFrame to RDD[Vector]](http://stackoverflow.com/questions/41712556/convert-sparks-dataframe-to-rddvector)
+* [Removing duplicates from rows based on specific columns in an RDD/Spark DataFrame](https://stackoverflow.com/questions/30248221/removing-duplicates-from-rows-based-on-specific-columns-in-an-rdd-spark-datafram)
 
 # spark ml mllib vector densevector
 * [ClassCastException: org.apache.spark.ml.linalg.DenseVector cannot be cast to org.apache.spark.mllib.linalg.Vector](http://stackoverflow.com/questions/40109807/classcastexception-org-apache-spark-ml-linalg-densevector-cannot-be-cast-to-org)
