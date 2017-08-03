@@ -32,3 +32,4 @@ spark-submit --class com.chinapex.ctrip.churn.textReader --master local Collect-
 
 # spark ml 
 * [How to cast variable of type ML sparse vector type to MLlib sparse vector type ?](https://community.hortonworks.com/questions/66106/how-to-caste-variable-of-type-ml-sparse-vector-typ.html?sort=oldest)
+* [how to do stacked & blending in spark with ml](https://stackoverflow.com/questions/44171182/how-to-do-stacked-blending-in-spark-with-ml)
