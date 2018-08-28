@@ -6,3 +6,7 @@
 
 * [Sequence Transduction with Recurrent Neural Networks](www.cs.toronto.edu/~graves/icml_2012.pdf) Graves, A. (2012). Sequence Transduction with Recurrent Neural Networks.
 * [Sequence Transduction with Recurrent Neural Networks Slides](https://www.cs.toronto.edu/~graves/seq_trans_slides.pdf)
+
+# Optimization
+* [Adam: Amethod for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf) Kingma, Diederik P., and Jimmy Lei Ba. "Adam: Amethod for stochastic optimization." Proc. 3rd Int. Conf. Learn. Representations. 2014.
+
