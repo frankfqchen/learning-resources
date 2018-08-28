@@ -13,6 +13,9 @@ Schuster, M., & Paliwal, K. K. (1997). **Bidirectional recurrent neural networks
 
 * [Framewise phoneme classification with bidirectional LSTM and other neural network architectures](http://wwwknoll.informatik.tu-muenchen.de/pub/Main/Publications/Graves2005b.pdf) Graves, A., & Schmidhuber, J. (2005). Framewise phoneme classification with **bidirectional LSTM** and other neural network architectures. Neural Networks, 18(5-6), 602-610. 
 
+# HMM
+* [Rejection strategies for offline handwritten text line recognition](http://www.xbrain.ch/d/2006_prl.pdf) Bertolami, R., Zimmermann, M., & Bunke, H. (2006). Rejection strategies for offline handwritten text line recognition. Pattern Recognition Letters, 27(16), 2005-2012.
+
 # Optimization
 * [Adam: Amethod for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf) Kingma, Diederik P., and Jimmy Lei Ba. "**Adam**: Amethod for stochastic optimization." Proc. 3rd Int. Conf. Learn. Representations. 2014.
 
