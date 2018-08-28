@@ -16,3 +16,5 @@ Schuster, M., & Paliwal, K. K. (1997). **Bidirectional recurrent neural networks
 # Optimization
 * [Adam: Amethod for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf) Kingma, Diederik P., and Jimmy Lei Ba. "**Adam**: Amethod for stochastic optimization." Proc. 3rd Int. Conf. Learn. Representations. 2014.
 
+* [Gradient-based learning algorithms for recurrent networks and their computational complexity](https://pdfs.semanticscholar.org/cccd/3fd7a45e7643f26391bd539ffbede0690f36.pdf) Williams, R. J., & Zipser, D. (1995). Gradient-based learning algorithms for recurrent networks and their computational complexity. Backpropagation: Theory, architectures, and applications, 1, 433-486.
+
