@@ -7,6 +7,10 @@
 * [Sequence Transduction with Recurrent Neural Networks](www.cs.toronto.edu/~graves/icml_2012.pdf) Graves, A. (2012). Sequence Transduction with Recurrent Neural Networks.
 * [Sequence Transduction with Recurrent Neural Networks Slides](https://www.cs.toronto.edu/~graves/seq_trans_slides.pdf)
 
+# RNN
+* [Bidirectional recurrent neural networks](http://www.cs.cmu.edu/afs/cs/user/bhiksha/WWW/courses/deeplearning/Fall.2016/pdfs/Schuster97_BRNN.pdf) 
+Schuster, M., & Paliwal, K. K. (1997). Bidirectional recurrent neural networks. IEEE Transactions on Signal Processing, 45(11), 2673-2681.
+
 # Optimization
 * [Adam: Amethod for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf) Kingma, Diederik P., and Jimmy Lei Ba. "Adam: Amethod for stochastic optimization." Proc. 3rd Int. Conf. Learn. Representations. 2014.
 
