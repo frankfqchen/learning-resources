@@ -3,3 +3,6 @@
 # NLP
 ## Machine Translation, Seq2Seq and Attention 
 * [Sequence to sequence learning with neural networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems. 2014.
+
+* [Sequence Transduction with Recurrent Neural Networks](www.cs.toronto.edu/~graves/icml_2012.pdf) Graves, A. (2012). Sequence Transduction with Recurrent Neural Networks.
+* [Sequence Transduction with Recurrent Neural Networks Slides](https://www.cs.toronto.edu/~graves/seq_trans_slides.pdf)
