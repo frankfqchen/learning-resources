@@ -7,6 +7,8 @@
 * [Sequence Transduction with Recurrent Neural Networks](www.cs.toronto.edu/~graves/icml_2012.pdf) Graves, A. (2012). Sequence Transduction with Recurrent Neural Networks.
 * [Sequence Transduction with Recurrent Neural Networks Slides](https://www.cs.toronto.edu/~graves/seq_trans_slides.pdf)
 
+* [Neural machine translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473.pdf) Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473. (Original **sequence-to-sequence** + **attention** paper)
+
 # RNN
 * [Bidirectional recurrent neural networks](http://www.cs.cmu.edu/afs/cs/user/bhiksha/WWW/courses/deeplearning/Fall.2016/pdfs/Schuster97_BRNN.pdf) 
 Schuster, M., & Paliwal, K. K. (1997). **Bidirectional recurrent neural networks**. IEEE Transactions on Signal Processing, 45(11), 2673-2681.
