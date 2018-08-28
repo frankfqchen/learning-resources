@@ -9,10 +9,10 @@
 
 # RNN
 * [Bidirectional recurrent neural networks](http://www.cs.cmu.edu/afs/cs/user/bhiksha/WWW/courses/deeplearning/Fall.2016/pdfs/Schuster97_BRNN.pdf) 
-Schuster, M., & Paliwal, K. K. (1997). Bidirectional recurrent neural networks. IEEE Transactions on Signal Processing, 45(11), 2673-2681.
+Schuster, M., & Paliwal, K. K. (1997). **Bidirectional recurrent neural networks**. IEEE Transactions on Signal Processing, 45(11), 2673-2681.
 
-* [Framewise phoneme classification with bidirectional LSTM and other neural network architectures](http://wwwknoll.informatik.tu-muenchen.de/pub/Main/Publications/Graves2005b.pdf) Graves, A., & Schmidhuber, J. (2005). Framewise phoneme classification with bidirectional LSTM and other neural network architectures. Neural Networks, 18(5-6), 602-610. 
+* [Framewise phoneme classification with bidirectional LSTM and other neural network architectures](http://wwwknoll.informatik.tu-muenchen.de/pub/Main/Publications/Graves2005b.pdf) Graves, A., & Schmidhuber, J. (2005). Framewise phoneme classification with **bidirectional LSTM** and other neural network architectures. Neural Networks, 18(5-6), 602-610. 
 
 # Optimization
-* [Adam: Amethod for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf) Kingma, Diederik P., and Jimmy Lei Ba. "Adam: Amethod for stochastic optimization." Proc. 3rd Int. Conf. Learn. Representations. 2014.
+* [Adam: Amethod for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf) Kingma, Diederik P., and Jimmy Lei Ba. "**Adam**: Amethod for stochastic optimization." Proc. 3rd Int. Conf. Learn. Representations. 2014.
 
