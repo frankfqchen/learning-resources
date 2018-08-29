@@ -15,8 +15,23 @@ Schuster, M., & Paliwal, K. K. (1997). **Bidirectional recurrent neural networks
 
 * [Framewise phoneme classification with bidirectional LSTM and other neural network architectures](http://wwwknoll.informatik.tu-muenchen.de/pub/Main/Publications/Graves2005b.pdf) Graves, A., & Schmidhuber, J. (2005). Framewise phoneme classification with **bidirectional LSTM** and other neural network architectures. Neural Networks, 18(5-6), 602-610. 
 
+# NTM
+* [Neural turing machines](https://arxiv.org/pdf/1410.5401.pdf) Graves, A., Wayne, G., & Danihelka, I. (2014). Neural turing machines. arXiv preprint arXiv:1410.5401.
+
+* [Reinforcement learning neural Turing machines](https://arxiv.org/pdf/1505.00521.pdf) Zaremba, W., & Sutskever, I. (2015). Reinforcement learning neural Turing machines.
+
+# Attention
+ * [Show, attend and tell: Neural image caption generation with visual attention](http://proceedings.mlr.press/v37/xuc15.pdf)
+ Xu, K., Ba, J., Kiros, R., Cho, K., Courville, A., Salakhudinov, R., ... & Bengio, Y. (2015, June). Show, attend and tell: Neural image caption generation with visual attention. In International conference on machine learning (pp. 2048-2057).
+ 
+ * [Learning Efficient Algorithms with Hierarchical Attentive Memory](https://pdfs.semanticscholar.org/2fca/50789703349f23dd5db3ee9dd20ad5cfc9d9.pdf) Andrychowicz, M., & Kurach, K. (2016). Learning Efficient Algorithms with Hierarchical Attentive Memory.
+
 # HMM
 * [Rejection strategies for offline handwritten text line recognition](http://www.xbrain.ch/d/2006_prl.pdf) Bertolami, R., Zimmermann, M., & Bunke, H. (2006). Rejection strategies for offline handwritten text line recognition. Pattern Recognition Letters, 27(16), 2005-2012.
+
+# GO
+* [Mastering the game of Go with deep neural networks and tree search](http://home.ustc.edu.cn/~ustcsh/py2016/data/nature16961.pdf) Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., ... & Dieleman, S. (2016). Mastering the game of Go with deep neural networks and tree search. nature, 529(7587), 484.
+
 
 # Optimization
 * [Adam: Amethod for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf) Kingma, Diederik P., and Jimmy Lei Ba. "**Adam**: Amethod for stochastic optimization." Proc. 3rd Int. Conf. Learn. Representations. 2014.
