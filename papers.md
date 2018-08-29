@@ -11,6 +11,23 @@
 
 * [Massive Exploration of Neural Machine Translation Architectures](http://www.aclweb.org/anthology/D17-1151)Britz, D., Goldie, A., Luong, M. T., & Le, Q. (2017). Massive Exploration of Neural Machine Translation Architectures. In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (pp. 1442-1451).
 
+## NMT
+* [On using very large target vocabulary for neural machine translation](http://www.anthology.aclweb.org/P/P15/P15-1001.pdf) (Containing RNNSearch, RNNSearch-LV)
+
+* [Neural machine translation of rare words with subword units](http://www.aclweb.org/anthology/P16-1162) (About BPE, Byte Pair Encoding)
+
+* [A Character-Level Decoder without Explicit Segmentation for Neural Machine Translation](http://anthology.aclweb.org/P/P16/P16-1160.pdf) (About BPE-Char)
+
+* [Deep recurrent models with fast-forward connections for neural machine translation](http://www.aclweb.org/anthology/Q16-1027)(About Deep-Att)
+
+* [Effective approaches to attention-based neural machine translation](http://www.aclweb.org/anthology/D15-1166)(About Luong)
+
+* [A convolutional encoder model for neural machine translation](http://www.aclweb.org/anthology/P17-1012)(About Deep-Conv)
+
+* [Google's neural machine translation system: Bridging the gap between human and machine translation](http://web.stanford.edu/class/psych209/Readings/WuEtAl16NeuralMachineTranslation.pdf)(About GNMT)
+
+* [Opennmt: Open-source toolkit for neural machine translation](http://www.aclweb.org/anthology/P17-4012)(About OpenNMT)
+
 
 # RNN
 * [Bidirectional recurrent neural networks](http://www.cs.cmu.edu/afs/cs/user/bhiksha/WWW/courses/deeplearning/Fall.2016/pdfs/Schuster97_BRNN.pdf) 
