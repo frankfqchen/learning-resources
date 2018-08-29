@@ -9,3 +9,9 @@
 * [Memory Networks implementations](https://github.com/facebook/MemNN)
 * [Implementation of Dynamic memory networks by Kumar et al.](https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano)
 * ["End-To-End Memory Networks" in Tensorflow ](https://github.com/carpedm20/MemN2N-tensorflow)
+
+# Adaptive Computation Time
+* [Adaptive Computation Time algorithm in Tensorflow](https://github.com/DeNeutoy/act-tensorflow)
+
+# Neural Programmer
+* [NPI(Neural Programmer-Interpreters) implementation with Keras](https://github.com/mokemokechicken/keras_npi)
