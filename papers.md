@@ -9,7 +9,7 @@
 
 * [Neural machine translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473.pdf) Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473. (Original **sequence-to-sequence** + **attention** paper) [NTM Slides](http://www.roeeaharoni.com/NMT_slides.pdf)
 
-* [Massive Exploration of Neural Machine Translation Architectures](http://www.aclweb.org/anthology/D17-1151)Britz, D., Goldie, A., Luong, M. T., & Le, Q. (2017). Massive Exploration of Neural Machine Translation Architectures. In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (pp. 1442-1451).
+* [Massive Exploration of Neural Machine Translation Architectures](http://www.aclweb.org/anthology/D17-1151) Britz, D., Goldie, A., Luong, M. T., & Le, Q. (2017). Massive Exploration of Neural Machine Translation Architectures. In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (pp. 1442-1451).
 
 ## NMT
 * [On using very large target vocabulary for neural machine translation](http://www.anthology.aclweb.org/P/P15/P15-1001.pdf) (Containing RNNSearch, RNNSearch-LV)
