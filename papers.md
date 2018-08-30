@@ -49,6 +49,8 @@ Schuster, M., & Paliwal, K. K. (1997). **Bidirectional recurrent neural networks
  * [A Deep Reinforced Model for Abstractive Summarization](https://arxiv.org/pdf/1705.04304.pdf)
  
  * [Get to the point: Summarization with pointer-generator networks](http://www.aclweb.org/anthology/P17-1099) See, A., Liu, P. J., & Manning, C. D. (2017). Get To The Point: Summarization with Pointer-Generator Networks. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (Vol. 1, pp. 1073-1083).
+ 
+ * [Blackout: Speeding up recurrent neural network language models with very large vocabularies](https://arxiv.org/pdf/1511.06909.pdf) Ji, S., Vishwanathan, S. V. N., Satish, N., Anderson, M. J., & Dubey, P. (2015). Blackout: Speeding up recurrent neural network language models with very large vocabularies. arXiv preprint arXiv:1511.06909.
 
 # HMM
 * [Rejection strategies for offline handwritten text line recognition](http://www.xbrain.ch/d/2006_prl.pdf) Bertolami, R., Zimmermann, M., & Bunke, H. (2006). Rejection strategies for offline handwritten text line recognition. Pattern Recognition Letters, 27(16), 2005-2012.
