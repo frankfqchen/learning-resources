@@ -15,3 +15,6 @@
 
 # Neural Programmer
 * [NPI(Neural Programmer-Interpreters) implementation with Keras](https://github.com/mokemokechicken/keras_npi)
+
+# Attention
+* [Code for the ACL 2017 paper "Get To The Point: Summarization with Pointer-Generator Networks](https://github.com/abisee/pointer-generator)
