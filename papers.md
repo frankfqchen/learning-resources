@@ -47,6 +47,8 @@ Schuster, M., & Paliwal, K. K. (1997). **Bidirectional recurrent neural networks
  * [Learning Efficient Algorithms with Hierarchical Attentive Memory](https://pdfs.semanticscholar.org/2fca/50789703349f23dd5db3ee9dd20ad5cfc9d9.pdf) Andrychowicz, M., & Kurach, K. (2016). Learning Efficient Algorithms with Hierarchical Attentive Memory.
  
  * [A Deep Reinforced Model for Abstractive Summarization](https://arxiv.org/pdf/1705.04304.pdf)
+ 
+ * [Get to the point: Summarization with pointer-generator networks](http://www.aclweb.org/anthology/P17-1099) See, A., Liu, P. J., & Manning, C. D. (2017). Get To The Point: Summarization with Pointer-Generator Networks. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (Vol. 1, pp. 1073-1083).
 
 # HMM
 * [Rejection strategies for offline handwritten text line recognition](http://www.xbrain.ch/d/2006_prl.pdf) Bertolami, R., Zimmermann, M., & Bunke, H. (2006). Rejection strategies for offline handwritten text line recognition. Pattern Recognition Letters, 27(16), 2005-2012.
