@@ -11,6 +11,11 @@
 
 * [Massive Exploration of Neural Machine Translation Architectures](http://www.aclweb.org/anthology/D17-1151) Britz, D., Goldie, A., Luong, M. T., & Le, Q. (2017). Massive Exploration of Neural Machine Translation Architectures. In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (pp. 1442-1451).
 
+## Word Segmentation
+* [Adversarial multi-criteria learning for chinese word segmentation](http://www.aclweb.org/anthology/P17-1110) Chen, X., Shi, Z., Qiu, X., & Huang, X. (2017). Adversarial Multi-Criteria Learning for Chinese Word Segmentation. ACL (Vol. 1, pp. 1193-1203).
+
+* [Neural Networks Incorporating Dictionaries for Chinese Word Segmentation](http://jkx.fudan.edu.cn/~qzhang/paper/aaai2017-cws.pdf) Zhang, Q., Liu, X., & Fu, J. (2018). Neural Networks Incorporating Dictionaries for Chinese Word Segmentation. AAAI 2018
+
 ## NMT
 * [On using very large target vocabulary for neural machine translation](http://www.anthology.aclweb.org/P/P15/P15-1001.pdf) (Containing RNNSearch, RNNSearch-LV)
 
